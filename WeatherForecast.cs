@@ -1,6 +1,6 @@
 using System;
 
-namespace apifilmes
+namespace API
 {
     public class WeatherForecast
     {
